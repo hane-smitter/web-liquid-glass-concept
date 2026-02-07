@@ -2,6 +2,11 @@
 
 A sophisticated glassmorphism effect demonstrating advanced CSS and SVG filters to create a viscous, liquid glass backdrop with interactive features.
 
+<figure>
+  <img src="https://raw.githubusercontent.com/hane-smitter/web-liquid-glass-concept/refs/heads/assets/Liquid-glass-concept.png" alt="Liquid Glass Concept">
+  <figcaption>Liquid glass as it is pointed by the arrows. sidenote: You could make the 'nav links' better🫢</figcaption>
+</figure>
+
 ## Overview
 
 This project showcases a modern web design technique that combines:
