@@ -4,7 +4,7 @@ A sophisticated glassmorphism effect demonstrating advanced CSS and SVG filters 
 
 <figure>
   <img src="https://raw.githubusercontent.com/hane-smitter/web-liquid-glass-concept/refs/heads/assets/Liquid-glass-concept.png" alt="Liquid Glass Concept">
-  <figcaption>Liquid glass as it is pointed by the arrows. sidenote: You could make the 'nav links' better🫢</figcaption>
+  <figcaption>Liquid glass as it is pointed by the arrows. <b>Sidenote:</b> You could make the <em>'nav links'</em> better🫢</figcaption>
 </figure>
 
 ## Overview
